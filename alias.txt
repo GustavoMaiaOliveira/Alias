@@ -1,0 +1,26 @@
+# abrir e recarregar os alias
+
+alias all='nano ~/.bashrc && source ~/.bashrc'
+alias sall='source ~/.bashrc'
+
+# comandos nativos do terminal
+
+alias c='clear'
+
+# rodar o clojure no terminal
+
+alias clj='clojure'
+
+# comandos github
+
+alias g='git'
+alias gi='git init'
+alias gr='git remote -v'
+alias gs='git status'
+alias ga='git add .'
+alias gc='git commit -m'
+alias gp='git push'
+
+# abrir o vs code
+
+alias c.='code .'
