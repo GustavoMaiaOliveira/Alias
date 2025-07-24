@@ -14,6 +14,7 @@ alias clj='clojure'
 # comandos github
 
 alias g='git'
+alias gcl='git clone'
 alias gi='git init'
 alias gr='git remote -v'
 alias gs='git status'
