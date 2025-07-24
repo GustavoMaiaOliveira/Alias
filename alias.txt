@@ -25,6 +25,7 @@ alias ga='git add .'
 alias gc='git commit -m'
 alias gp='git push'
 alias gl='git log'
+alias gpl='git pull'
 
 # abrir o vs code
 
