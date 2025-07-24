@@ -1,3 +1,6 @@
+# ==================================================
+#My Alias
+
 # abrir e recarregar os alias
 
 alias all='nano ~/.bashrc && source ~/.bashrc'
@@ -26,3 +29,4 @@ alias gl='git log'
 # abrir o vs code
 
 alias c.='code .'
+# ==================================================
